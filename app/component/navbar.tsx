@@ -1,5 +1,5 @@
 import { NavbarProp } from '@/app/fonts/types';
-import Link from 'next/link';
+//import Link from 'next/link';
 const Navbar:React.FC<NavbarProp> = ({name, href}) => {
   return (
     <li>

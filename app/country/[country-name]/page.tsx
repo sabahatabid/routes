@@ -1,6 +1,6 @@
 "use client"
-import { CountryDetails} from "@/app/fonts/types";
-import Link from "next/link";
+//import { Countries} from "@/app/fonts/types";
+//import Link from "next/link";
 import { useParams } from "next/navigation";
 
 export default function CountryName() {
